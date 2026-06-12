@@ -3,7 +3,7 @@
 This is a fan-made project with original source code. I am not affiliated with Toys-For-Bob, Activision, or any other parties involved with
 making the hardware, software, or anything else related to the Skylanders franchise.
 
-# SkylandersPortalSDK
+# PortalSDK
 
 This is a Swift 6 SDK for communicating with the official **Skylanders Trap Team Bluetooth Portal** on iOS and iPadOS 18+.
 
