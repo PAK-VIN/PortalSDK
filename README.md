@@ -1,7 +1,5 @@
 ## DISCLAIMER
 
-This projects source code will not be released until the app I'm currently developing is released. DO NOT ASK FOR IT.
-
 This is a fan-made project with original source code. I am not affiliated with Toys-For-Bob, Activision, or any other parties involved with
 making the hardware, software, or anything else related to the Skylanders franchise.
 
