@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "databaseVersion": "11.05.2026",
+  "figures": [
+    {
+      "number": 1,
+      "figureID": "0x0010",
+      "variantID": "0x0000",
+      "name": "Spyro (Series 1)",
+      "character": "Spyro",
+      "element": "Magic"
+    },
+    {
+      "number": 2,
+      "figureID": "0x0011",
+      "variantID": "0x0000",
+      "name": "Voodood (Series 1)",
+      "character": "Voodood",
+      "element": "Magic"
+    },
+      {
+      "number": 3,
+      "figureID": "0x0012",
+      "variantID": "0x0000",
+      "name": "Double Trouble (Series 1)",
+      "character": "Double Trouble",
+      "element": "Magic"
+    },
+    {
+      "number": 4,
+      "figureID": "0x0017",
+      "variantID": "0x0000",
+      "name": "Voodood (Series 1)",
+      "character": "Voodood",
+      "element": "Magic"
+    },
+    {
+      "number": 5,
+      "figureID": "0x0009",
+      "variantID": "0x0000",
+      "name": "Eruptor (Series 1)",
+      "character": "Eruptor",
+      "element": "Fire"
+    },
+    {
+      "number": 6,
+      "figureID": "0x0008",
+      "variantID": "0x0000",
+      "name": "Sunburn",
+      "character": "Sunburn",
+      "element": "Fire"
+    },
+    {
+      "number": 7,
+      "figureID": "0x000A",
+      "variantID": "0x0000",
+      "name": "Ignitor (Series 1)",
+      "character": "Ignitor",
+      "element": "Fire"
+    },
+    {
+      "number": 8,
+      "figureID": "0x000B",
+      "variantID": "0x0000",
+      "name": "Flameslinger (Series 1)",
+      "character": "Flameslinger",
+      "element": "Fire"
+    },
+    {
+      "number": 9,
+      "figureID": "0x0013",
+      "variantID": "0x0000",
+      "name": "Trigger Happy (Series 1)",
+      "character": "Trigger Happy",
+      "element": "Tech"
+    },
+    {
+      "number": 10,
+      "figureID": "0x0014",
+      "variantID": "0x0000",
+      "name": "Drobot (Series 1)",
+      "character": "Drobot",
+      "element": "Tech"
+    },
+    {
+      "number": 11,
+      "figureID": "0x0015",
+      "variantID": "0x0000",
+      "name": "Drill Sergeant (Series 1)",
+      "character": "Drill Sergeant",
+      "element": "Tech"
+    },
+    {
+      "number": 12,
+      "figureID": "0x0016",
+      "variantID": "0x0000",
+      "name": "Drill Sergeant (Series 1)",
+      "character": "Drill Sergeant",
+      "element": "Tech"
+    },
+    {
+      "number": 13,
+      "figureID": "0x001A",
+      "variantID": "0x0000",
+      "name": "Stealth Elf (Series 1)",
+      "character": "Stealth Elf",
+      "element": "Life"
+    },
+    {
+      "number": 14,
+      "figureID": "0x001B",
+      "variantID": "0x0000",
+      "name": "Stump Smash (Series 1)",
+      "character": "Stump Smash",
+      "element": "Life"
+    },
+    {
+      "number": 15,
+      "figureID": "0x0019",
+      "variantID": "0x0000",
+      "name": "Zook (Series 1)",
+      "character": "Zook",
+      "element": "Life"
+    },
+    {
+      "number": 16,
+      "figureID": "0x0018",
+      "variantID": "0x0000",
+      "name": "Camo",
+      "character": "Camo",
+      "element": "Life"
+    },
+    {
+      "number": 17,
+      "figureID": "0x000E",
+      "variantID": "0x0000",
+      "name": "Gill Grunt (Series 1)",
+      "character": "Gill Grunt",
+      "element": "Water"
+    },
+    {
+      "number": 18,
+      "figureID": "0x000F",
+      "variantID": "0x0000",
+      "name": "Slam Bam (Series 1)",
+      "character": "Slam Bam",
+      "element": "Water"
+    },
+    {
+      "number": 19,
+      "figureID": "0x000D",
+      "variantID": "0x0000",
+      "name": "Wham-Shell",
+      "character": "Wham-Shell",
+      "element": "Water"
+    },
+    {
+      "number": 20,
+      "figureID": "0x000C",
+      "variantID": "0x0000",
+      "name": "Zap (Series 1)",
+      "character": "Zap",
+      "element": "Water"
+    },
+    {
+      "number": 21,
+      "figureID": "0x0000",
+      "variantID": "0x0000",
+      "name": "Whirlwind (Series 1)",
+      "character": "Whirlwind",
+      "element": "Air"
+    },
+     {
+      "number": 22,
+      "figureID": "0x0001",
+      "variantID": "0x0000",
+      "name": "Sonic Boom (Series 1)",
+      "character": "Sonic Boom",
+      "element": "Air"
+    }
+  ]
+}
