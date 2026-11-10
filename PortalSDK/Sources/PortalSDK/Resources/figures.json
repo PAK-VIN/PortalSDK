@@ -329,6 +329,71 @@
       "name": "Whisper Elf (Sidekick)",
       "character": "Stealth Elf",
       "element": "Life"
+    },
+    {
+      "number": 42,
+      "figureID": "0x00C8",
+      "variantID": "0x0000",
+      "name": "Anvil Rain",
+      "character": "N/A",
+      "element": "Magic Item"
+    },
+    {
+      "number": 43,
+      "figureID": "0x00C9",
+      "variantID": "0x0000",
+      "name": "Hidden Treasure",
+      "character": "N/A",
+      "element": "Magic Item"
+    },
+    {
+      "number": 44,
+      "figureID": "0x00CA",
+      "variantID": "0x0000",
+      "name": "Healing Elixir",
+      "character": "N/A",
+      "element": "Magic Item"
+    },
+    {
+      "number": 45,
+      "figureID": "0x00CB",
+      "variantID": "0x0000",
+      "name": "Ghost Pirate Swords",
+      "character": "N/A",
+      "element": "Magic Item"
+    },
+    {
+      "number": 46,
+      "figureID": "0x00CC",
+      "variantID": "0x0000",
+      "name": "Time Twister Hourglass",
+      "character": "N/A",
+      "element": "Magic Item"
+    },
+    {
+      "number": 47,
+      "figureID": "0x00CD",
+      "variantID": "0x0000",
+      "name": "Sky-Iron Shield",
+      "character": "N/A",
+      "element": "Magic Item"
+    },
+    {
+      "number": 48,
+      "figureID": "0x00CE",
+      "variantID": "0x0000",
+      "name": "Winged Boots",
+      "character": "N/A",
+      "element": "Magic Item"
+    },
+    {
+      "number": 49,
+      "figureID": "0x00CF",
+      "variantID": "0x0000",
+      "name": "Sparx the Dragonfly",
+      "character": "N/A",
+      "element": "Magic Item"
     }
+
   ]
 }
