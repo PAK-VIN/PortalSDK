@@ -257,6 +257,78 @@
       "name": "Ghost Roaster",
       "character": "Ghost Roaster",
       "element": "Undead"
+    },
+    {
+      "number": 33,
+      "figureID": "0x001C",
+      "variantID": "0x0000",
+      "name": "Spyro (Series 1, Dark)",
+      "character": "Spyro",
+      "element": "Magic"
+    },
+    {
+      "number": 34,
+      "figureID": "0x01A0",
+      "variantID": "0x0000",
+      "name": "Spyro (Series 1, Legendary)",
+      "character": "Spyro",
+      "element": "Magic"
+    },
+    {
+      "number": 35,
+      "figureID": "0x01A3",
+      "variantID": "0x0000",
+      "name": "Trigger Happy (Series 1, Legendary)",
+      "character": "Trigger Happy",
+      "element": "Tech"
+    },
+    {
+      "number": 36,
+      "figureID": "0x0194",
+      "variantID": "0x0000",
+      "name": "Bash (Series 1, Legendary)",
+      "character": "Bash",
+      "element": "Earth"
+    },
+    {
+      "number": 37,
+      "figureID": "0x01AE",
+      "variantID": "0x0000",
+      "name": "Chop Chop (Series 1, Legendary)",
+      "character": "Chop Chop",
+      "element": "Undead"
+    },
+    {
+      "number": 38,
+      "figureID": "0x01F9",
+      "variantID": "0x0000",
+      "name": "Terrabite (Sidekick)",
+      "character": "Terrafin",
+      "element": "Earth"
+    },
+    {
+      "number": 39,
+      "figureID": "0x01FF",
+      "variantID": "0x0000",
+      "name": "Gill Runt (Sidekick)",
+      "character": "Gill Grunt",
+      "element": "Water"
+    },
+    {
+      "number": 40,
+      "figureID": "0x0207",
+      "variantID": "0x0000",
+      "name": "Trigger Snappy (Sidekick)",
+      "character": "Trigger Happy",
+      "element": "Tech"
+    },
+    {
+      "number": 41,
+      "figureID": "0x020E",
+      "variantID": "0x0000",
+      "name": "Whisper Elf (Sidekick)",
+      "character": "Stealth Elf",
+      "element": "Life"
     }
   ]
 }
