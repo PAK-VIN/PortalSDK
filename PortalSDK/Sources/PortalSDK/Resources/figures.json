@@ -393,7 +393,38 @@
       "name": "Sparx the Dragonfly",
       "character": "N/A",
       "element": "Magic Item"
+    },
+    {
+      "number": 50,
+      "figureID": "0x012D",
+      "variantID": "0x0000",
+      "name": "Empire Of Ice",
+      "character": "N/A",
+      "element": "Adventure Pack"
+    },
+     {
+      "number": 51,
+      "figureID": "0x012E",
+      "variantID": "0x0000",
+      "name": "Pirate Seas",
+      "character": "N/A",
+      "element": "Adventure Pack"
+    },
+    {
+      "number": 52,
+      "figureID": "0x012F",
+      "variantID": "0x0000",
+      "name": "Darklight Krypt",
+      "character": "N/A",
+      "element": "Adventure Pack"
+    },
+    {
+      "number": 53,
+      "figureID": "0x0130",
+      "variantID": "0x0000",
+      "name": "Volcanic Vault",
+      "character": "N/A",
+      "element": "Adventure Pack"
     }
-
   ]
 }
