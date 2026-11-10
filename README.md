@@ -19,11 +19,26 @@ Built by Vinny "PAK-VIN" Stark.
 
 ### figures.json/Figure Database
 
-**v1.0.0-beta** currently supports 22 of the 32 non-variant Skylanders: Spyro's Adventure figures.
+**v1.0.0-beta2** currently supports all 32 non-variant Skylanders: Spyro's Adventure figures.
 
-**Skylanders: Spyro's Adventure - Core Figures:** 22/32
-**Skylanders: Spyro's Adventure - Variant Figures, Adventure Packs and Magic Items:** 0/?
+#### Skylanders: Spyro's Adventure
 
-**Skylanders Giants and later games are planned and will eventually be supported.**
+**Skylanders: Spyro's Adventure - Skylanders (Series 1):** 32/32
+
+**Skylanders: Spyro's Adventure - Variant Skylanders (Eon's Elite/Gold, Legendary, All Chase Variants and Sidekicks):** 0/30
+
+**Skylanders: Spyro's Adventure - Magic Items & Adventure Packs:** 0/13
+
+#### Skylanders Giants
+
+**Skylanders Giants - Giants:** 0/8
+
+**Skylanders Giants - New Skylanders (Series 1):** 0/8
+
+**Skylanders Giants - Returning Skylanders (Series 2):** 0/24
+
+**Skylanders Giants - Variant Skylanders (LightCore, Series 2 and Giant Variants, Legendary, All Chase Variants and Sidekicks):** 0/41
+
+### More games will be supported soon.
 
 

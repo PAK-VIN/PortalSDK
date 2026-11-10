@@ -170,13 +170,93 @@
       "character": "Whirlwind",
       "element": "Air"
     },
-     {
+    {
       "number": 22,
       "figureID": "0x0001",
       "variantID": "0x0000",
       "name": "Sonic Boom (Series 1)",
       "character": "Sonic Boom",
       "element": "Air"
+    },
+    {
+      "number": 23,
+      "figureID": "0x0003",
+      "variantID": "0x0000",
+      "name": "Lightning Rod (Series 1)",
+      "character": "Lightning Rod",
+      "element": "Air"
+    },
+     {
+      "number": 24,
+      "figureID": "0x0002",
+      "variantID": "0x0000",
+      "name": "Warnado",
+      "character": "Warnado",
+      "element": "Air"
+    },
+    {
+      "number": 25,
+      "figureID": "0x0005",
+      "variantID": "0x0000",
+      "name": "Terrafin (Series 1)",
+      "character": "Terrafin",
+      "element": "Earth"
+    },
+    {
+      "number": 26,
+      "figureID": "0x0006",
+      "variantID": "0x0000",
+      "name": "Dino-Rang",
+      "character": "Dino-Rang",
+      "element": "Earth"
+    },
+    {
+      "number": 27,
+      "figureID": "0x0007",
+      "variantID": "0x0000",
+      "name": "Prism Break (Series 1)",
+      "character": "Prism Break",
+      "element": "Earth"
+    },
+    {
+      "number": 28,
+      "figureID": "0x0004",
+      "variantID": "0x0000",
+      "name": "Bash",
+      "character": "Bash",
+      "element": "Earth"
+    },
+    {
+      "number": 29,
+      "figureID": "0x0020",
+      "variantID": "0x0000",
+      "name": "Cynder (Series 1)",
+      "character": "Cynder",
+      "element": "Undead"
+    },
+    {
+      "number": 30,
+      "figureID": "0x001D",
+      "variantID": "0x0000",
+      "name": "Hex (Series 1)",
+      "character": "Hex",
+      "element": "Undead"
+    },
+    {
+      "number": 31,
+      "figureID": "0x001E",
+      "variantID": "0x0000",
+      "name": "Chop Chop (Series 1)",
+      "character": "Chop Chop",
+      "element": "Undead"
+    },
+    {
+      "number": 32,
+      "figureID": "0x001F",
+      "variantID": "0x0000",
+      "name": "Ghost Roaster",
+      "character": "Ghost Roaster",
+      "element": "Undead"
     }
   ]
 }
